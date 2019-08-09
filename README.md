@@ -1,5 +1,5 @@
 # lovebai
-表白代码
+好玩的代码
 
-#JSDrawLove
+# JSDrawLove
 画爱心
